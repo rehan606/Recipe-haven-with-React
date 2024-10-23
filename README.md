@@ -3,6 +3,10 @@
 
 <p align="center"> A feature-rich and fully responsive recipes website designed to provide a delightful browsing and cooking experience. Whether you're looking for quick meals or gourmet recipes, this website has something for everyone. Built with modern web technologies, the site offers an intuitive user interface, smooth navigation, and interactive elements to make exploring recipes easy and enjoyable.</p>
 
+# Layout :
+
+<img src="https://github.com/rehan606/Recipe-haven-with-React/blob/main/src/assets/image/layout.png?raw=true" alt="">
+
 
 # Tech Stack:
 
