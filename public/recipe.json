@@ -1,0 +1,117 @@
+[
+    {
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken Basil",
+    "image": "https://img.freepik.com/premium-photo/acquacotta-with-fresh-parsley-tomatoes-delicious-acquacotta-food-image_1295756-73721.jpg?w=740",
+    "short_description": "A delightful chicken dish with the aroma of fresh basil and soy sauce.",
+    "ingredients": [
+        "550 g chicken breast",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushrooms",
+        "3 cloves garlic",
+        "1 tbsp olive oil",
+        "1 tbsp lemon juice",
+        "1 tsp black pepper",
+        "1 tsp salt"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+    },
+    {
+    "recipe_id": 2,
+    "recipe_name": "Spicy Garlic Shrimp",
+    "image": "https://img.freepik.com/premium-photo/massaman-curry-hearty-vegetable-stew-dark-ceramic-bowl-garnished-with-fresh-parsley_801714-17766.jpg?w=740",
+    "short_description": "Shrimp sautéed with garlic and spices, served with a side of vegetables.",
+    "ingredients": [
+        "500 g shrimp",
+        "50 g garlic",
+        "200 g mixed vegetables",
+        "50 ml olive oil",
+        "2 tsp chili flakes",
+        "1 tsp paprika",
+        "1 lemon, juiced",
+        "2 tbsp fresh parsley",
+        "1 tsp salt"
+    ],
+    "preparing_time":25,
+    "calories": 280
+    },
+    {
+    "recipe_id": 3,
+    "recipe_name": "Vegan Tofu Stir-fry",
+    "image": "https://img.freepik.com/free-photo/top-view-tasty-fried-potatoes-inside-pan-with-different-seasonings-dark-surface_140725-88188.jpg?t=st=1729670011~exp=1729673611~hmac=83d1eb12fa9442125c91693be6b3bea5f45b11c23e505b18d55a38aa238a9e60&w=740",
+    "short_description": "A healthy and colorful tofu stir-fry with seasonal vegetables.",
+    "ingredients": [
+        "300 g tofu",
+        "200 g bell peppers",
+        "150 g broccoli",
+        "100 g carrots",
+        "60 ml soy sauce",
+        "2 tbsp sesame oil",
+        "50 g spring onions",
+        "2 cloves garlic",
+        "1 tbsp ginger paste"
+    ],
+    "preparing_time": 20,
+    "calories": 250 
+    },
+    {
+    "recipe_id": 4,
+    "recipe_name": "Classic Beef Burger",
+    "image": "https://img.freepik.com/premium-photo/seafood-paella-with-millet-small-pan-black-wooden-table-taken-from_1013276-269.jpg?w=740",
+    "short_description": "Juicy grilled beef burger with cheese, lettuce, and tomato.",
+    "ingredients": [
+        "200 g beef patty",
+        "2 slices cheddar cheese",
+        "50 g lettuce",
+        "30 g tomato",
+        "1 sesame seed bun",
+        "1 tbsp mayonnaise",
+        "1 tsp mustard",
+        "1 pickle, sliced",
+        "1 tsp black pepper"
+    ],
+    "preparing_time": 15,
+    "calories": 450
+    },
+    {
+    "recipe_id": 5,
+    "recipe_name": "Pasta Carbonara",
+    "image": "https://img.freepik.com/premium-photo/pan-food-with-variety-vegetables-including-chicken-rice-vegetables_1305390-16111.jpg?w=740",
+    "short_description": "A creamy and savory Italian pasta with eggs, cheese, and bacon.",
+    "ingredients": [
+        "200 g spaghetti",
+        "100 g bacon",
+        "2 eggs",
+        "50 g parmesan cheese",
+        "2 tbsp olive oil",
+        "3 cloves garlic",
+        "1 tsp black pepper",
+        "1 tbsp parsley",
+        "1 tsp salt"
+    ],
+    "preparing_time": 20,
+    "calories": 520
+    },
+    {
+    "recipe_id": 6,
+    "recipe_name": "Mango Smoothie",
+    "image": "https://img.freepik.com/premium-photo/person-is-cooking-pot-flying-healthy-pasta-with-bunch-vegetables_1236927-7403.jpg?w=740",
+    "short_description": "A refreshing smoothie made with ripe mangoes, yogurt, and honey.",
+    "ingredients": [
+        "300 g mango",
+        "200 ml yogurt",
+        "2 tbsp honey",
+        "100 ml milk",
+        "1 tsp vanilla extract",
+        "1 banana",
+        "50 g ice cubes",
+        "1 tbsp chia seeds",
+        "1 tbsp lime juice"
+    ],
+    "preparing_time": 10,
+    "calories": 220
+    }
+]
+  
