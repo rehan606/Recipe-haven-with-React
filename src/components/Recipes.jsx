@@ -25,7 +25,7 @@ const Recipes = ({addRecipeToQueue}) => {
                         alt="Recipe" />
                     </figure>
                     <div className="mt-4">
-                        <h2 className="card-title font-bold text-2xl">{recipe.recipe_name}</h2>
+                        <h2 className="card-title font-bold text-xl md:text-2xl">{recipe.recipe_name}</h2>
                         <p className="mt-4">{recipe.short_description}</p>
                         <h3 className="text-md font-bold text-gray-700 mt-4">Ingredients: {recipe.ingredients.length} </h3>
                         <ul className="ml-4 mt-4">

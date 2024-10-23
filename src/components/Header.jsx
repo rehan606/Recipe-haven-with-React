@@ -4,14 +4,14 @@ const Header = () => {
     return (
         <div className="navbar bg-base-100">
             <div className="flex-1">
-                <a className=" text-2xl font-semibold cursor-pointer">Recipe Haven</a>
+                <a className=" text-lg md:text-2xl font-semibold cursor-pointer">Recipe Haven</a>
             </div>
 
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
                 <li><a>Home</a></li>
                 <li><a>Menu</a></li>
-                <li><a>Categorys</a></li>
+                <li><a>Category</a></li>
                 <li><a>About</a></li>
                 </ul>
             </div>

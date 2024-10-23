@@ -10,12 +10,15 @@ const Banner = () => {
             <div className="hero-overlay bg-opacity-60 rounded-3xl"></div>
             <div className="hero-content text-neutral-content text-center">
                 <div className="max-w-md">
-                <h1 className="mb-5 text-5xl font-bold">Elevate Your Everyday Cooking</h1>
+                <h1 className="mb-5 text-3xl md:text-5xl font-bold">Elevate Your Everyday Cooking</h1>
                 <p className="mb-5">
                 "Discover Delicious Recipes! From Quick Meals to Gourmet Dishes, Explore New Flavors Every Day!".
                 </p>
-                <button className="btn btn-seconday mr-4">Get Cooking</button>
-                <button className="btn btn-primary">Explore Recipes</button>
+                
+                <div className="flex justify-center">
+                    <button className="btn btn-seconday mr-4">Get Cooking</button>
+                    <button className="btn btn-primary">Explore Recipes</button>
+                </div>
                 </div>
             </div>
         </div>

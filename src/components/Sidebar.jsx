@@ -82,7 +82,7 @@ const Sidebar = ({recipeQueue, handleRemove, prepareRecipe, calculateTimeAndCalo
                             <tr className="bg-green-200 rounded-lg">
                                 <td></td>
                                 <td className="font-bold " colSpan="2"> Total Time = {totalTime} Min</td>
-                                <td className="font-bold" colSpan="2"> Total = {totalCalories} Calories</td>
+                                <td className="font-bold" > Total = {totalCalories} Calories</td>
                                 <td></td>
                                 
                             </tr>
